@@ -1,0 +1,8 @@
+https://medium.com/analytics-vidhya/sentiment-analysis-with-vader-label-the-unlabeled-data-8dd785225166
+https://thecleverprogrammer.com/2021/11/24/add-labels-to-a-dataset-for-sentiment-analysis/
+
+1. py -m pip install vaderSentiment
+2. py -m pip install nltk
+3. py -m pip install pandas
+4. py -m pip install openpyxl
+4. py test.py
